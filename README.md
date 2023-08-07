@@ -5,7 +5,7 @@
    
    🌱 I’m currently learning about machine/deep learning stuff
    
-   🤝 I can help with front-end (frameworks/styles), elasticsearch or you can just ask!
+   🤝 I can help with front-end stuff, Elasticsearch or you can just ask!
    
    📫 You can reach me on <a href="mailto:luanamorais.dev@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/lq-morais/" target="_blank">linkedin</a>
    
