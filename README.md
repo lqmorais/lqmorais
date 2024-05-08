@@ -9,7 +9,7 @@
    
    📫 You can reach me on <a href="mailto:luanamorais.dev@gmail.com">e-mail</a> or <a href="https://www.linkedin.com/in/lq-morais/" target="_blank">linkedin</a>
    
-   🔫 Playing some Overwatch 2 and Apex Legends
+   🔫 Playing some CS2 and Apex Legends
 </pre>
 
 
